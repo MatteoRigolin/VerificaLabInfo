@@ -1,0 +1,7 @@
+E:\4F 2021-2022\Visual studio\VerificaLabInfo\VerificaLabInfo\obj\Debug\VerificaLabInfo.csproj.AssemblyReference.cache
+E:\4F 2021-2022\Visual studio\VerificaLabInfo\VerificaLabInfo\obj\Debug\VerificaLabInfo.csproj.CoreCompileInputs.cache
+E:\4F 2021-2022\Visual studio\VerificaLabInfo\VerificaLabInfo\bin\Debug\VerificaLabInfo.exe.config
+E:\4F 2021-2022\Visual studio\VerificaLabInfo\VerificaLabInfo\bin\Debug\VerificaLabInfo.exe
+E:\4F 2021-2022\Visual studio\VerificaLabInfo\VerificaLabInfo\bin\Debug\VerificaLabInfo.pdb
+E:\4F 2021-2022\Visual studio\VerificaLabInfo\VerificaLabInfo\obj\Debug\VerificaLabInfo.exe
+E:\4F 2021-2022\Visual studio\VerificaLabInfo\VerificaLabInfo\obj\Debug\VerificaLabInfo.pdb
